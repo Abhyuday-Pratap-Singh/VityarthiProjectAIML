@@ -140,4 +140,4 @@ The graph is **directed** — a connection from City A to City B does not automa
 
 ## Course Context
 
-This project was built as part of a Data Structures and Algorithms course. It demonstrates graph construction using adjacency lists and graph traversal using recursive DFS — both of which are core topics in the course.
+This project was built as part of a Fundamentals in AIML course. It demonstrates graph construction using adjacency lists and graph traversal using recursive DFS — both of which are core topics in the course.
