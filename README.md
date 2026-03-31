@@ -57,7 +57,7 @@ pip install pandas
 **Step 1 — Clone or download this repository**
 
 ```bash
-git clone https://github.com/Abhyuday-Pratap-Singh/Route-Evaluator.git
+git clone https://github.com/Abhyuday-Pratap-Singh/VityarthiProjectAIML.git
 cd Route-Evaluator
 ```
 
